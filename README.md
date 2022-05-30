@@ -19,7 +19,7 @@ Short for Cascading Style Sheets, CSS is a web technology along side with HTML, 
 ---
 
 - [CSS](#css)
-  - [The Cascade, Inheritance, Specificity and the CSSOM](#the-cascade-specificity-and-the-cssom)
+  - [The Cascade](#the-cascade)
   - [Units](#units)
   - [Style Rule Syntax](#style-rule-syntax)
   - [Selectors](#selectors)
