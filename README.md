@@ -4,8 +4,6 @@
 
 ## Is & is'nt
 
----
-
 **This is:** A collection of concise and practical notes for experienced developers of the most common features of CSS.
 
 **This is not:** a reference.
@@ -15,8 +13,6 @@ CSS has a flexible and diverse set of property values for style rules. Because w
 Short for Cascading Style Sheets, CSS is a web technology along side with HTML, JavaScript and WASM. CSS was designed to style HTML elements and describe how to render them on various media such as print, screen, speech and more. CSS is standardized according to the [W3C specification](https://www.w3.org/Style/CSS/#specs).
 
 ## Table of Contents
-
----
 
 - [CSS](#css)
   - [The Cascade](#the-cascade)
@@ -46,8 +42,6 @@ Short for Cascading Style Sheets, CSS is a web technology along side with HTML, 
 ## CSS
 
 <p align="right"> (<a href="#top">back to top</a>) </p>
-
----
 
 ### The Cascade
 
@@ -624,8 +618,6 @@ element {
   background-color: var(--main-bg-color);
 }
 ```
-
----
 
 ## SASS
 
